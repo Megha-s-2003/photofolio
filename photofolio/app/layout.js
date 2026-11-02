@@ -39,7 +39,7 @@ export default function RootLayout({ children }) {
       </head>
 
       <body>
-         <Preloader />
+         {/* <Preloader /> */}
          {/* <AOSInitializer/> */}
         {children}
 
